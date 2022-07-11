@@ -3,7 +3,7 @@
 **Description:**
 The Manipulator is designed in accordance to the demands of the Reconnaissance And Delivery Mission (RDM) and Instrument Deployment and Maintenance Mission (ID&MM). The rover will pick up and deliver the objects to designated locations and to perform a set of precise maintenance and deployment operations.
 Our Robotic Manipulator has 5 Degrees of Freedom, controlled remotely from the base station with stock GUI. The complete body is made of aluminium to provide strength while keeping the arm light-weight. It can carry a payload of up to 5 kg in its gripper. The base is designed such that it can be detached from the chassis.
-      ![full_arm](https://user-images.githubusercontent.com/83658560/178336798-dac7a332-7895-49a0-bcf1-128f333a1912.png)
+![full_arm](https://user-images.githubusercontent.com/83658560/178336798-dac7a332-7895-49a0-bcf1-128f333a1912.png)
 
 Following are the 4 major structural classification:
 1. Links:
