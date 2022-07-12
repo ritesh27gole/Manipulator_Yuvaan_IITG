@@ -43,5 +43,9 @@ End-effector gripping action
 The manipulator is controlled using Arduino, via ROS-based GUI using rosserial_arduino open-source library
 (image)
 
+The Manipulator after manufacturing:
+![physical_manipulator](https://user-images.githubusercontent.com/83658560/178414544-ef320584-2315-4fb2-a394-9d2bf714e93c.jpeg)
+
+
 Future Work:
 
