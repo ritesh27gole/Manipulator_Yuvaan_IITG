@@ -33,6 +33,7 @@ The workspace plot is being plotted with a 1 mm precision using forward kinemati
 
 Control:
 6 controls are available for manoeuvring the arm:
+
       1. Base Rotation
       2. Lower Actuator extension/retraction
       3. Upper Actuator extension/retraction
@@ -48,6 +49,7 @@ The Manipulator after manufacturing:
 
 
 Future Work:
+
       1. Reinforcement of the base
       2. Developing encoder feedback based Inverse Kinematics implementation
       3. Testing a soft-gripper for the variety of gripping tasks
