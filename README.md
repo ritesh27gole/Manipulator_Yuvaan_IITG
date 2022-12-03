@@ -1,4 +1,4 @@
-# Manipulator_Yuvaan_IITG
+# Manipulator module, Yuvaan IITG Mars Rover
 
 **Description:**
 The Manipulator is designed in accordance to the demands of the Reconnaissance And Delivery Mission (RDM) and Instrument Deployment and Maintenance Mission (ID&MM). The rover will pick up and deliver the objects to designated locations and to perform a set of precise maintenance and deployment operations.
